@@ -26,7 +26,7 @@ $ npm -v
 To copy this project on Desktop :
 
 ```sh
-$ git clone "https://github.com/bastien5066/ece-typescriptjs-expressjs-part1.git"
+$ git clone "https://github.com/bastien5066/ece-expressjs.git"
 ```
 Go to the project directory and install the depedencies required for this project by running the command : 
 

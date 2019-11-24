@@ -1,5 +1,5 @@
 {
-    "name": "ece-expressjs-typescriptjs-part1",
+    "name": "ece-expressjs",
     "version": "1.0.0",
     "description": "NodeJS Project WEEK2",
     "main": "app.js",
@@ -10,14 +10,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/bastien5066/ece-typescriptjs-expressjs.git"
+        "url": "git+https://github.com/bastien5066/ece-expressjs.git"
     },
     "author": "Bastien LE GUERN Matthieu LELEU",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/bastien5066/ece-typescriptjs-expressjs/issues"
+        "url": "https://github.com/bastien5066/ece-expressjs/issues"
     },
-    "homepage": "https://github.com/bastien5066/ece-typescriptjs-expressjs#readme",
+    "homepage": "https://github.com/bastien5066/ece-expressjs#readme",
     "devDependencies": {
         "body-parser": "^1.19.0",
         "ejs": "^3.0.1",
