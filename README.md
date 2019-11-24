@@ -5,7 +5,7 @@ Modules code - Bastien LE GUERN Matthieu LELEU
 
 This project is a little interface for users : there are a homepage and a hello page.
 
-Main languages & frameworks used : NodeJS, ExpressJS, jQuery and AJAX
+Main languages & frameworks used : NodeJS, ExpressJS, jQuery and AJAX.
 
 
 ## Install 
