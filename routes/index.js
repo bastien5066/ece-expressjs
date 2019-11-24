@@ -3,9 +3,10 @@ function getHomePage(req, res) {
 }
 
 function postName(req, res) {
-    console.log(req.body);
     if (req.body.name != '') {
-        res.redirect('hello/' + req.body.name);
+        res.redirect('/hello/' + req.body.name);
+    } else {
+    	res.redirect('/home');
     }
 }
 

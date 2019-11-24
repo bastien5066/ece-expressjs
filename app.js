@@ -16,9 +16,7 @@ app.use(favicon(__dirname + '/public/favicon.svg'));
 app.use('/jquery', express.static(__dirname + '/node_modules/jquery/dist/'))
 
 app.get('/metrics.json', (req, res) => {
-    console.log("HERE")
     metrics.get((err, data) => {
-        console.log(data)
         if (err) throw err
         res.status(200).json(data)
     })
